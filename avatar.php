@@ -2,12 +2,9 @@
 
 /**
  ***************************************************************************
- *
- *  Author Code: DiegoPino, diegopino@gmail.com
- *  Basado en mis estudios de XML Schemas Database and XSL stands for EXtensible Stylesheet Language
+ *  DiegoPino, diegopino@gmail.com
  *  Website: http://diegopino.blogspot.com/ 
  *  License: Creative Commons http://creativecommons.org/licenses/by/4.0/legalcode
- * 
  ***************************************************************************​/
  */
 
